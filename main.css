@@ -9,7 +9,7 @@ body {
   place-content: center;
   height: 100vh;
   background-color: rgb(238, 238, 238);
-  font-family: "Nunito Sans", sans-serif;
+  font-family: "Nunito", sans-serif;
 }
 
 .card {
@@ -53,4 +53,4 @@ body {
 }
 .card__link:hover {
   background-color: paleturquoise;
-} /*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=main.css.map */
